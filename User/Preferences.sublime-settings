@@ -1,0 +1,24 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_size": 15,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"vintage_start_in_command_mode": true
+}

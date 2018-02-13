@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"draw_centered": false,
+	"enable_table_editor": true,
+	"font_size": 16,
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"theme": "ayu-mirage.sublime-theme",
+	"word_wrap": false,
+}
