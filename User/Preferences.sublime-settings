@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-	"font_face": "Ubuntu Mono",
+	"font_face": "等距更纱黑体 SC",
 	"font_size": 15,
 	"ignored_packages":
 	[
@@ -11,8 +11,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 0.8,
+	"line_padding_top": 0.8,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
